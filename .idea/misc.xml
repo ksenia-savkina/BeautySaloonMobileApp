@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout-land/activity_cosmetics.xml" value="0.12213403880070546" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout-land/activity_distributions.xml" value="0.12213403880070546" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout-land/activity_home.xml" value="0.152" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout-land/activity_main.xml" value="0.1247795414462081" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout-land/activity_purchase_list.xml" value="0.1247795414462081" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout-land/activity_receipts.xml" value="0.1247795414462081" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout-land/activity_report_cosmetics.xml" value="0.176" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout-land/fragment_authorization.xml" value="0.136" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout-land/fragment_cosmeti.xml" value="0.11022927689594356" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout-land/fragment_cosmetic.xml" value="0.176" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout-land/fragment_cosmetics.xml" value="0.10400000000000001" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout-land/fragment_distribution.xml" value="0.2" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout-land/fragment_distributions.xml" value="0.1721411192214112" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout-land/fragment_inital.xml" value="0.136" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout-land/fragment_receipt.xml" value="0.136" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout-land/fragment_receipts.xml" value="0.1247795414462081" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout-land/fragment_registration.xml" value="0.264" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout-land/fragment_selectioncosmetics.xml" value="0.1247795414462081" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout/activity_home.xml" value="0.12318840579710146" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout/activity_main.xml" value="0.12318840579710146" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout/activity_purchase_list.xml" value="0.12318840579710146" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout/activity_receipts.xml" value="0.12318840579710146" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout/activity_report_cosmetics.xml" value="0.12318840579710146" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout/fragment_authorization.xml" value="0.12318840579710146" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout/fragment_cosmetic.xml" value="0.12318840579710146" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout/fragment_cosmetick.xml" value="0.13020833333333334" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout/fragment_cosmetics.xml" value="0.12318840579710146" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout/fragment_distribution.xml" value="0.12318840579710146" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout/fragment_distributions.xml" value="0.11775362318840579" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout/fragment_inital.xml" value="0.11775362318840579" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout/fragment_receipt.xml" value="0.11775362318840579" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout/fragment_receipts.xml" value="0.11775362318840579" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout/fragment_registration.xml" value="0.1118659420289855" />
+        <entry key="..\:/Mobile Device Programming/Coursework/app/src/main/res/layout/fragment_selectioncosmetics.xml" value="0.11820652173913043" />
+        <entry key="..\:/MobileDeviceProgramming/Coursework/app/src/main/res/layout-land/activity_distributions.xml" value="0.209375" />
+        <entry key="..\:/MobileDeviceProgramming/Coursework/app/src/main/res/layout-land/activity_main.xml" value="0.21516754850088182" />
+        <entry key="..\:/MobileDeviceProgramming/Coursework/app/src/main/res/layout-land/activity_purchase_list.xml" value="0.209375" />
+        <entry key="..\:/MobileDeviceProgramming/Coursework/app/src/main/res/layout-land/fragment_authorization.xml" value="0.21516754850088182" />
+        <entry key="..\:/MobileDeviceProgramming/Coursework/app/src/main/res/layout/activity_cosmetics.xml" value="0.18704710144927536" />
+        <entry key="..\:/MobileDeviceProgramming/Coursework/app/src/main/res/layout/activity_distributions.xml" value="0.18206521739130435" />
+        <entry key="..\:/MobileDeviceProgramming/Coursework/app/src/main/res/layout/activity_main.xml" value="0.22056159420289856" />
+        <entry key="..\:/MobileDeviceProgramming/Coursework/app/src/main/res/layout/file_list.xml" value="0.18704710144927536" />
+        <entry key="..\:/MobileDeviceProgramming/Coursework/app/src/main/res/layout/fragment_authorization.xml" value="0.22056159420289856" />
+        <entry key="..\:/MobileDeviceProgramming/Coursework/app/src/main/res/layout/fragment_cosmetic.xml" value="0.18704710144927536" />
+        <entry key="..\:/MobileDeviceProgramming/Coursework/app/src/main/res/layout/fragment_cosmetics.xml" value="0.18704710144927536" />
+        <entry key="..\:/MobileDeviceProgramming/Coursework/app/src/main/res/layout/fragment_registration.xml" value="0.18704710144927536" />
+        <entry key="..\:/MobileDeviceProgramming/Coursework/app/src/main/res/layout/fragment_selectioncosmetics.xml" value="0.18704710144927536" />
+        <entry key="..\:/MobileDeviceProgramming/Coursework/app/src/main/res/xml/pref.xml" value="0.22418478260869565" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

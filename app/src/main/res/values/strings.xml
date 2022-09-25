@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Салон красоты</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="buttonRegister">Регистрация</string>
+    <string name="buttonAuthorization">Авторизация</string>
+    <string name="textViewF_Name">Фамилия</string>
+    <string name="textViewL_Name">Имя</string>
+    <string name="textViewLogin">Логин</string>
+    <string name="textViewPassword">Пароль</string>
+    <string name="textViewEmail">Эл. почта</string>
+    <string name="textViewPhoneNumber">Телефон</string>
+    <string name="buttonRegisterFR">Зарегистрироваться</string>
+    <string name="buttonCancelFR">Отмена</string>
+    <string name="EmptyEditTextF_Name">Заполните фамилию</string>
+    <string name="EmptyEditTextL_Name">Заполните имя</string>
+    <string name="EmptyEditTextLogin">Заполните логин</string>
+    <string name="EmptyEditTextPassword">Заполните пароль</string>
+    <string name="EmptyEditTextEmail">Заполните адрес электронной почты</string>
+    <string name="EmptyEditTextPhone">Заполните номер телефона</string>
+    <string name="SuccessfulRegistration">Регистрация прошла успешно</string>
+    <string name="action_sign_in">Войти</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="InvalidLogin">Неверный логин/пароль</string>
+    <string name="buttonCosmetic">Косметика</string>
+    <string name="buttonReceipt">Чеки</string>
+    <string name="buttonDistribution">Выдачи</string>
+    <string name="buttonPurchaseList">Список покупок</string>
+    <string name="buttonReport">Отчет по косметике</string>
+    <string name="buttonAdd">Создать</string>
+    <string name="buttonUpd">Изменить</string>
+    <string name="buttonDel">Удалить</string>
+    <string name="editTextName">Название</string>
+    <string name="editTextPrice">Стоимость</string>
+    <string name="buttonSave">Сохранить</string>
+    <string name="EmptyEditTextName">Заполните название</string>
+    <string name="EmptyEditTextPrice">Заполните стоимость</string>
+    <string name="SuccessfulAdding">Сохранение прошло успешно</string>
+    <string name="removalText">Удалить запись </string>
+    <string name="removalTitle">Вопрос</string>
+    <string name="buttonOk">Ок</string>
+    <string name="buttonCancel">Отмена</string>
+    <string name="NotCheckedItems">Элемент не выбран</string>
+    <string name="textViewTotalCost">Общая стоимость</string>
+    <string name="textViewPurchaseDate">Дата покупки</string>
+    <string name="textViewCosmetic">Косметика</string>
+    <string name="buttonAddR">Добавить</string>
+    <string name="buttonUpdR">Изменить</string>
+    <string name="buttonDelR">Удалить</string>
+    <string name="buttonSaveR">Сохранить</string>
+    <string name="buttonCancelR">Отмена</string>
+    <string name="editTextCountSC">Количество</string>
+    <string name="selectionTitle">Выбор косметики</string>
+    <string name="buttonSaveSC">Сохранить</string>
+    <string name="buttonCancelSC">Отмена</string>
+    <string name="EmptyEditCount">Заполните количество</string>
+    <string name="EmptySpinner">Выберите косметику</string>
+    <string name="textViewIssueDate">Дата выдачи</string>
+    <string name="FillInCosmetics">Заполните косметику</string>
+    <string name="buttonWord">Word</string>
+    <string name="buttonExcel">Excel</string>
+    <string name="SuccessfulDoc">Выполнено</string>
+    <string name="textViewDateFrom">Дата начала</string>
+    <string name="textViewDateTo">Дата окончания</string>
+    <string name="buttonPdf">PDF</string>
+    <string name="EmptyEditDateFrom">Заполните дату начала</string>
+    <string name="EmptyEditDateTo">Заполните дату окончания</string>
+    <string name="ErrorDate">Дата начала должна быть меньше даты окончания</string>
+    <string name="preferences">Настройки</string>
+    <string name="storageMethod">Способ хранения</string>
+    <string name="buttonSync">Синхронизировать</string>
+    <string name="SuccessfulSyncing">Синхронизация прошла успешно</string>
+
+    <string-array name="storage">
+        <item>Локальная БД</item>
+        <item>Клиент-серверная БД</item>
+    </string-array>
+    <string-array name="storage_values">
+        <item>local</item>
+        <item>client-server</item>
+    </string-array>
+</resources>

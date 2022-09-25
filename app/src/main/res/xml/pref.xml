@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:entries="@array/storage"
+        android:entryValues="@array/storage_values"
+        android:key="list"
+        android:title="@string/storageMethod">
+    </ListPreference>
+</PreferenceScreen>
