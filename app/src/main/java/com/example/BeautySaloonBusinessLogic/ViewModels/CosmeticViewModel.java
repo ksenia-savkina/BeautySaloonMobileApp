@@ -12,6 +12,6 @@ public class CosmeticViewModel {
 
     @Override
     public String toString() {
-        return "Название: " + cosmeticName + " Стоимость: " + price;
+        return String.format("Название: %s Стоимость: %d", cosmeticName, price);
     }
 }
